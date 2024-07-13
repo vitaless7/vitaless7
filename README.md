@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello there 👋<br>A Data Analyst from Brazil<br>Living in Curitiba, Brazil.<br><br>⚙️ I use daily: .py ,sql, pbi<br>🌍 I'm mostly active within the kaagle Community<br>
+💫Hello there👋<br>A Data Analyst from Brazil<br>Living in Curitiba, Brazil.<br><br>⚙️ I use daily: .py ,sql, pbi<br>🌍 I'm mostly active within the kaagle Community<br>
 
 
 ## 🌐 Socials:

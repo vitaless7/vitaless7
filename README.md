@@ -2,7 +2,7 @@
 A Data Scientist from Brazil  
 Living in Curitiba, Brazil.
 
-📊 Passionate about Machine Learning, Data Analysis, Big Data, and Data Engineering  
+📊 Passionate about Machine Learning, Big Data, and Data Engineering  
 ⚙️ I work daily with: Python, SQL, ML models, and Cloud technologies  
 🌍 Active in the Kaggle and Data Science communities
 

@@ -14,7 +14,6 @@ Living in Curitiba, Brazil.
 📍 Currently working with technologies like:  
 → SQL • Apache Airflow • Apache Spark • Databricks • dbt • GCP  
 
-📊 Active in the **Data Engineering**, **Cloud**, and **Open Source** communities.  
 
 ---
 

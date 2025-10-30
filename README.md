@@ -1,5 +1,5 @@
 <h1 align="center">🧠 Felipe Vital</h1>
-<h3 align="center">Data Engineer | Big Data | Cloud | Automation</h3>
+<h3 align="center">Data Engineer | Analytics Engineer | Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-vital7/" target="_blank">

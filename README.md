@@ -23,18 +23,6 @@ Hello! 👋 I'm a Data Engineer specializing in building and optimizing scalable
     </td>
     <td width="40%" valign="top">
       
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitaless7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaless7&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-    </td>
-  </tr>
-</table>
-
----
 
 ## ⚙️ Tech Stack
 
